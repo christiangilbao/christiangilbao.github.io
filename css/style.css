@@ -341,7 +341,7 @@ button:hover{
    color: #F2F7F3;
    cursor: pointer;
 }
-button a{
+button, a{
    color: #F2F7F3;
    text-decoration: none;
 }
