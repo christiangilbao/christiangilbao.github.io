@@ -342,7 +342,7 @@ button:hover{
    cursor: pointer;
 }
 button a{
-   color: inherit;
+   color: #F2F7F3;
    text-decoration: none;
 }
 
